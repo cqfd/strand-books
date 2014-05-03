@@ -1,0 +1,23 @@
+{
+  "name": "strand-books",
+  "version": "0.0.0",
+  "description": "Client library for searching NYC's Strand bookstore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/happy4crazy/strand-books"
+  },
+  "author": "Alan O'Donnell",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/happy4crazy/strand-books/issues"
+  },
+  "homepage": "https://github.com/happy4crazy/strand-books",
+  "dependencies": {
+    "request" : "*",
+    "cheerio" : "*"
+  }
+}
